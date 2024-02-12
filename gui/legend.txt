@@ -1,0 +1,8 @@
+Knapp id:   Knapp
+0           Styrning
+1           Plottar
+2           Manuell
+3           Autonom
+4           Beräkna väg
+5           Koppla
+6           Starta

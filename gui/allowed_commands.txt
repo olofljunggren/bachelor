@@ -1,0 +1,18 @@
+Tillåtna kommandon i användargränssnittet main.py:
+
+Funktion                                                Exempel
+assign [parameter] [värde]                              assign kp 3.09
+    Giltiga parametrar är "kp", "ki" och "kd". 
+    Giltiga värden är alla flyttal.
+
+
+
+
+
+
+
+----####---- IN PROGRESS ----####----
+
+move [riktning] [tid, sek]                                   move left 3.0
+    Giltiga riktningar är left, right, forward, back
+    Giltiga tider är flyttal

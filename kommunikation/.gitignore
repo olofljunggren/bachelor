@@ -1,0 +1,8 @@
+*.lock
+*.swp
+data/
+__pycache__/
+rplidar/
+odometer_speed.txt
+position_data.txt
+message.txt

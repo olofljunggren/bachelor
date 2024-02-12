@@ -1,0 +1,17 @@
+[
+    [{"position": [-6000, 6000], 
+    "radius" : 150},
+    {"position": [-5200, 5800], 
+    "radius" : 100}],
+    
+    [{"position": [6000, -6000], 
+    "radius" : 150},
+    {"position": [6800, -5400], 
+    "radius" : 150}],
+
+    [{"position": [-6000, -6000], 
+    "radius" : 100}],
+
+    [{"position": [6000, 6000], 
+    "radius" : 150}]
+]
